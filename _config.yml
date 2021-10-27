@@ -13,14 +13,14 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
 title                    : "فــــاتـــح"
 title_separator          : "-"
 name                     : "fateh" 
-description              : "Welcome to my web site."
+description              : "فاتح تنها یک نام مستعار است"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : fateh00
 facebook:
   username               : sauleh.eetemadi
   app_id                 :
@@ -112,11 +112,11 @@ author:
   bio              : در حال جستجو برای تجربه ای جدید
   location         : "تهران"
   email            : fatehfarda00@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: fateh00
+  # linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: fateh00
+  # instagram: saulehe
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,18 +127,18 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Calendly"
-      icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+    # - label: "Calendly"
+    #   icon: "fas fa-calendar-alt"
+    #   url: "http://calendly.com/pourrang_atashi"
 
 # Site Footer
 footer:
@@ -158,8 +158,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
