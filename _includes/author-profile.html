@@ -89,6 +89,15 @@
         </li>
       {% endif %}
 
+      {% if author.telegram %}
+        <li>
+          <a href="https://telegram.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fa fa-telegram" aria-hidden="true"></i> Telegram
+          </a>
+        </li>
+      {% endif %}
+
+
       {% if author.facebook %}
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs" rel="nofollow noopener noreferrer">

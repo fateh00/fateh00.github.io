@@ -116,6 +116,7 @@ author:
   # linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
   github: fateh00
+  telegram: Fateh03
   # instagram: saulehe
   links:
     - label: "Email"
@@ -139,7 +140,9 @@ author:
     # - label: "Calendly"
     #   icon: "fas fa-calendar-alt"
     #   url: "http://calendly.com/pourrang_atashi"
-
+    - label: "Telegram"
+      icon: "fab fa-fw fa-git"
+      # url: "https://github.com/"
 # Site Footer
 footer:
   links:
